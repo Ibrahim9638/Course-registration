@@ -1,0 +1,76 @@
+ [
+      {
+        "id": 101,
+        "img": "https://example.com/course1.jpg",
+        "title": "Introduction to Python Programming",
+        "course_details": "This course covers the basics of Python programming language including data types, control structures, functions, and more.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 102,
+        "img": "https://example.com/course2.jpg",
+        "title": "Web Development Fundamentals",
+        "course_details": "Learn the fundamentals of web development including HTML, CSS, and JavaScript.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 103,
+        "img": "https://example.com/course3.jpg",
+        "title": "Machine Learning Basics",
+        "course_details": "An introduction to machine learning algorithms and techniques.",
+        "price": 79.99,
+        "credit": 5
+      },
+      {
+        "id": 104,
+        "img": "https://example.com/course4.jpg",
+        "title": "Graphic Design Fundamentals",
+        "course_details": "Learn the basics of graphic design including color theory, typography, and layout.",
+        "price": 69.99,
+        "credit": 3
+      },
+      {
+        "id": 105,
+        "img": "https://example.com/course5.jpg",
+        "title": "Digital Marketing Essentials",
+        "course_details": "An overview of digital marketing strategies, including SEO, SEM, and social media marketing.",
+        "price": 89.99,
+        "credit": 4
+      },
+      {
+        "id": 106,
+        "img": "https://example.com/course6.jpg",
+        "title": "Financial Planning for Beginners",
+        "course_details": "Learn the basics of personal finance, budgeting, and investment strategies.",
+        "price": 39.99,
+        "credit": 2
+      },
+      {
+        "id": 107,
+        "img": "https://example.com/course7.jpg",
+        "title": "Photography Fundamentals",
+        "course_details": "An introduction to photography techniques including composition, lighting, and exposure.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 108,
+        "img": "https://example.com/course8.jpg",
+        "title": "Data Analysis with Excel",
+        "course_details": "Learn how to analyze and visualize data using Microsoft Excel.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 109,
+        "img": "https://example.com/course9.jpg",
+        "title": "English Literature Survey",
+        "course_details": "An overview of major works and themes in English literature from different periods.",
+        "price": 49.99,
+        "credit": 3
+      }
+    ]
+
+  
