@@ -1,7 +1,7 @@
  [
       {
         "id": 101,
-        "img": "https://example.com/course1.jpg",
+        "img": "https://i.postimg.cc/Cdyp8zd3/Rectangle-2.png",
         "title": "Introduction to Python Programming",
         "course_details": "This course covers the basics of Python programming language including data types, control structures, functions, and more.",
         "price": 49.99,
@@ -9,7 +9,7 @@
       },
       {
         "id": 102,
-        "img": "https://example.com/course2.jpg",
+        "img": "https://i.postimg.cc/tgmF0Y3m/Rectangle-2-6.png",
         "title": "Web Development Fundamentals",
         "course_details": "Learn the fundamentals of web development including HTML, CSS, and JavaScript.",
         "price": 59.99,
@@ -17,7 +17,7 @@
       },
       {
         "id": 103,
-        "img": "https://example.com/course3.jpg",
+        "img": "https://i.postimg.cc/Bb2F1pdd/Rectangle-2-5.png",
         "title": "Machine Learning Basics",
         "course_details": "An introduction to machine learning algorithms and techniques.",
         "price": 79.99,
@@ -25,7 +25,7 @@
       },
       {
         "id": 104,
-        "img": "https://example.com/course4.jpg",
+        "img": "https://i.postimg.cc/c13wj1rX/Rectangle-2-1.png",
         "title": "Graphic Design Fundamentals",
         "course_details": "Learn the basics of graphic design including color theory, typography, and layout.",
         "price": 69.99,
@@ -33,7 +33,7 @@
       },
       {
         "id": 105,
-        "img": "https://example.com/course5.jpg",
+        "img": "https://i.postimg.cc/Mp9QRvFK/Rectangle-2-2.png",
         "title": "Digital Marketing Essentials",
         "course_details": "An overview of digital marketing strategies, including SEO, SEM, and social media marketing.",
         "price": 89.99,
@@ -41,7 +41,7 @@
       },
       {
         "id": 106,
-        "img": "https://example.com/course6.jpg",
+        "img": "https://i.postimg.cc/tJGZyPYD/Rectangle-2-4.png",
         "title": "Financial Planning for Beginners",
         "course_details": "Learn the basics of personal finance, budgeting, and investment strategies.",
         "price": 39.99,
@@ -49,7 +49,7 @@
       },
       {
         "id": 107,
-        "img": "https://example.com/course7.jpg",
+        "img": "https://i.postimg.cc/SRLXKs94/Rectangle-3.png",
         "title": "Photography Fundamentals",
         "course_details": "An introduction to photography techniques including composition, lighting, and exposure.",
         "price": 49.99,
@@ -57,7 +57,7 @@
       },
       {
         "id": 108,
-        "img": "https://example.com/course8.jpg",
+        "img": "https://i.postimg.cc/R08Js2mk/Rectangle-2-3.png",
         "title": "Data Analysis with Excel",
         "course_details": "Learn how to analyze and visualize data using Microsoft Excel.",
         "price": 59.99,
@@ -65,7 +65,7 @@
       },
       {
         "id": 109,
-        "img": "https://example.com/course9.jpg",
+        "img": "https://i.postimg.cc/7PSJ9BWR/Rectangle-3-1.png",
         "title": "English Literature Survey",
         "course_details": "An overview of major works and themes in English literature from different periods.",
         "price": 49.99,
