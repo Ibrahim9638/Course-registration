@@ -1,6 +1,6 @@
 import { FaDollarSign, FaBookOpen } from "react-icons/fa";
 
-const CourseDetail = ({ courseDetail }) => {
+const CourseDetail = ({ courseDetail, handleCourseBook }) => {
   const { img, title, course_details, price, credit } = courseDetail;
 
   return (
@@ -27,7 +27,7 @@ const CourseDetail = ({ courseDetail }) => {
           </div>
         </div>
         <div>
-          <button className="bg-blue-500 text-white w-full text-xl p-2 rounded">
+          <button onClick={()=>handleCourseBook(title)} className="bg-blue-500 text-white w-full text-xl p-2 rounded">
             Select
           </button>
         </div>
