@@ -3,7 +3,6 @@ import { FaDollarSign, FaBookOpen } from "react-icons/fa";
 const CourseDetail = ({ courseDetail, handleCourseBook }) => {
   const { img, title, course_details, price, credit } = courseDetail;
 
-
   return (
     <div className=" bg-white flex flex-col justify-between py-5 px-4 my-5 rounded">
       <img className="w-full mb-3" src={img} alt="" />

@@ -25,7 +25,7 @@ function App() {
 
       setRemaining(remaining - creditHour);
     } else {
-      toast("credit is over");
+      toast("Credit is over");
     }
   };
 
