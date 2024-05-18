@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 import CourseDetail from "../CourseDetail/CourseDetail";
 
-const CourseDetails = ({handleCourseBook}) => {
+const CourseDetails = ({handleCourseBook, handleTotalCredit}) => {
   const [courseDetails, setCourseDetails] = useState([]);
 
   useEffect(() => {
@@ -18,6 +18,7 @@ const CourseDetails = ({handleCourseBook}) => {
             key={courseDetail.id}
             courseDetail={courseDetail}
             handleCourseBook={handleCourseBook}
+            handleTotalCredit={handleTotalCredit}
           ></CourseDetail>
         ))}
       </div>

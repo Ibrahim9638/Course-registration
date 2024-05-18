@@ -3,6 +3,7 @@ import { FaDollarSign, FaBookOpen } from "react-icons/fa";
 const CourseDetail = ({ courseDetail, handleCourseBook }) => {
   const { img, title, course_details, price, credit } = courseDetail;
 
+
   return (
     <div className=" bg-white flex flex-col justify-between py-5 px-4 my-5 rounded">
       <img className="w-full mb-3" src={img} alt="" />
@@ -27,7 +28,7 @@ const CourseDetail = ({ courseDetail, handleCourseBook }) => {
           </div>
         </div>
         <div>
-          <button onClick={()=>handleCourseBook(title)} className="bg-blue-500 text-white w-full text-xl p-2 rounded">
+          <button onClick={()=>handleCourseBook(courseDetail, credit, price)} className="bg-blue-500 text-white w-full text-xl p-2 rounded">
             Select
           </button>
         </div>
