@@ -6,6 +6,7 @@ import Header from "./Components/Header/Header";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+
 function App() {
   const [courseBooking, setCourseBooking] = useState([]);
   const [creditHour, setCreditHour] = useState(0);
@@ -40,7 +41,9 @@ function App() {
           totalPrice={totalPrice}
           remainHr={remaining}
         ></CourseBooking>
+        
       </div>
+      
       <ToastContainer />
     </>
   );
